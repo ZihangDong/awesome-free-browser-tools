@@ -30,6 +30,7 @@ A curated list of **free, browser-based tools** that work without downloads, sig
 | **ILovePDF** | Popular online PDF editor with many tools. | [ilovepdf.com](https://www.ilovepdf.com/) |
 | **SmallPDF** | PDF compress, convert, merge and more. | [smallpdf.com](https://smallpdf.com/) |
 | **PDF24** | Free PDF tools with desktop and online versions. | [tools.pdf24.org](https://tools.pdf24.org/) |
+| **Zebra Compress PDF** | Shrink PDF file size in the browser. Free, no signup. | [zebra.tg](https://zebra.tg/compress-pdf) |
 
 ## Image Tools
 
@@ -43,6 +44,8 @@ A curated list of **free, browser-based tools** that work without downloads, sig
 | **Squoosh** | Google's image compression tool with advanced options. | [squoosh.app](https://squoosh.app/) |
 | **TinyPNG** | Smart lossy compression for PNG and JPEG. | [tinypng.com](https://tinypng.com/) |
 | **Photopea** | Free online Photoshop alternative. | [photopea.com](https://www.photopea.com/) |
+| **Zebra Draw with Text** | Drag to draw a line and your text flows along it — spiral it, wrap it behind the subject, erase the overlap. Free, no signup, no watermark. | [zebra.tg](https://zebra.tg/draw-text) |
+| **Zebra Remove Background** | One-tap AI background removal with edge cleanup. Free daily allowance, no signup. | [zebra.tg](https://zebra.tg/remove-bg) |
 
 ## Video & Audio Tools
 
