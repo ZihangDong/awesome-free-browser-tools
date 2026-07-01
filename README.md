@@ -35,6 +35,7 @@ A curated list of **free, browser-based tools** that work without downloads, sig
 
 | Tool | Description | Link |
 |------|------------|------|
+| **ToolBox Image** | Compress, convert & optimize JPG, PNG, WebP, AVIF, HEIC in your browser. WASM-powered, no uploads, unlimited batches. | [toolboximage.com](https://toolboximage.com) |
 | **ToolKnit Image Compressor** | Compress JPG, PNG, WebP & GIF with quality control. | [toolknit.com](https://toolknit.com/tools/compress-image.html) |
 | **ToolKnit Image Cropper** | Crop images with custom aspect ratios. | [toolknit.com](https://toolknit.com/tools/image-crop.html) |
 | **ToolKnit Image Grid Splitter** | Split images into 3×3 grids for Instagram. | [toolknit.com](https://toolknit.com/tools/image-grid-split.html) |
