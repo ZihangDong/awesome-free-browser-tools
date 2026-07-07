@@ -43,6 +43,8 @@ A curated list of **free, browser-based tools** that work without downloads, sig
 | **Squoosh** | Google's image compression tool with advanced options. | [squoosh.app](https://squoosh.app/) |
 | **TinyPNG** | Smart lossy compression for PNG and JPEG. | [tinypng.com](https://tinypng.com/) |
 | **Photopea** | Free online Photoshop alternative. | [photopea.com](https://www.photopea.com/) |
+| **NasrTech Image Compressor** | Compress JPG, PNG & WebP at your chosen quality — 100% in-browser, nothing uploaded. | [nasrtech.dev](https://www.nasrtech.dev/image-compressor/) |
+| **NasrTech Image Format Converter** | Convert between JPG, PNG and WebP locally in the browser. | [nasrtech.dev](https://www.nasrtech.dev/tools/image-format-converter/) |
 
 ## Video & Audio Tools
 
@@ -60,6 +62,7 @@ A curated list of **free, browser-based tools** that work without downloads, sig
 | **ToolKnit Character Counter** | Count characters, words, sentences & paragraphs in real-time. | [toolknit.com](https://toolknit.com/tools/character-counter.html) |
 | **ToolKnit Text Extractor** | Extract text from PDF, DOCX, XLSX & 12+ formats. | [toolknit.com](https://toolknit.com/tools/extract-text.html) |
 | **WordCounter.net** | Online word and character counter. | [wordcounter.net](https://wordcounter.net/) |
+| **NasrTech Word Counter** | Count words, characters, sentences & reading time in real time. | [nasrtech.dev](https://www.nasrtech.dev/tools/word-counter/) |
 
 ## Developer Tools
 
@@ -70,6 +73,8 @@ A curated list of **free, browser-based tools** that work without downloads, sig
 | **IT-Tools** | Collection of handy tools for developers. | [it-tools.tech](https://it-tools.tech/) |
 | **10015.io** | All online tools in one box for developers. | [10015.io](https://www.10015.io/) |
 | **CyberChef** | The cyber Swiss Army knife for data operations. | [gchq.github.io/CyberChef](https://gchq.github.io/CyberChef/) |
+| **NasrTech QR Code Generator** | QR codes for URL, text, WhatsApp, WiFi & vCard. Download PNG. | [nasrtech.dev](https://www.nasrtech.dev/tools/qr-code-generator/) |
+| **NasrTech XML Sitemap Generator** | Build sitemap.xml, HTML sitemap & robots.txt from a URL list. | [nasrtech.dev](https://www.nasrtech.dev/tools/sitemap-generator/) |
 
 ## Utility Tools
 
@@ -82,6 +87,7 @@ A curated list of **free, browser-based tools** that work without downloads, sig
 | **ToolKnit Stopwatch** | Millisecond-precision stopwatch with lap tracking. | [toolknit.com](https://toolknit.com/tools/stopwatch.html) |
 | **ToolKnit World Clock** | Live time across every timezone. | [toolknit.com](https://toolknit.com/tools/world-clock.html) |
 | **MiniToolz** | Free and simple online tools collection. | [minitoolz.com](https://minitoolz.com/) |
+| **NasrTech Password Generator** | Generate strong passwords in-browser — no signup, no upload, no telemetry. | [nasrtech.dev](https://www.nasrtech.dev/tools/password-generator/) |
 
 ---
 
