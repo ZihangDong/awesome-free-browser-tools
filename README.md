@@ -70,6 +70,7 @@ A curated list of **free, browser-based tools** that work without downloads, sig
 | **IT-Tools** | Collection of handy tools for developers. | [it-tools.tech](https://it-tools.tech/) |
 | **10015.io** | All online tools in one box for developers. | [10015.io](https://www.10015.io/) |
 | **CyberChef** | The cyber Swiss Army knife for data operations. | [gchq.github.io/CyberChef](https://gchq.github.io/CyberChef/) |
+| **Nutilz** | 50+ free browser-based tools — JSON formatter, regex tester, DNS/WHOIS lookup, QR generator, and more. No signup. | [nutilz.com](https://nutilz.com/) |
 
 ## Utility Tools
 
