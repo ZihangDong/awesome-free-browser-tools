@@ -30,6 +30,7 @@ A curated list of **free, browser-based tools** that work without downloads, sig
 | **ILovePDF** | Popular online PDF editor with many tools. | [ilovepdf.com](https://www.ilovepdf.com/) |
 | **SmallPDF** | PDF compress, convert, merge and more. | [smallpdf.com](https://smallpdf.com/) |
 | **PDF24** | Free PDF tools with desktop and online versions. | [tools.pdf24.org](https://tools.pdf24.org/) |
+| **ClientPDF** | Merge, split, and rotate PDFs, 100% client-side via pdf-lib. No upload, no signup — verifiable in the browser network tab. | [abyworkings-coder.github.io/clientpdf](https://abyworkings-coder.github.io/clientpdf/) |
 
 ## Image Tools
 
