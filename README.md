@@ -52,6 +52,7 @@ A curated list of **free, browser-based tools** that work without downloads, sig
 | **ToolKnit Video to GIF** | Convert video clips to animated GIFs. | [toolknit.com](https://toolknit.com/tools/video-to-gif.html) |
 | **ToolKnit MP3↔WAV** | Convert between MP3 and WAV formats. | [toolknit.com](https://toolknit.com/) |
 | **Kapwing** | Online video editor with many features. | [kapwing.com](https://www.kapwing.com/) |
+| **Video Size Reducer** | Compress MP4 to a target size (10/25/50 MB or custom) in-browser; no upload. | [videosizereducer.org](https://videosizereducer.org/) |
 
 ## Text Tools
 
