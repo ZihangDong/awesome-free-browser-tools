@@ -82,6 +82,7 @@ A curated list of **free, browser-based tools** that work without downloads, sig
 | **ToolKnit Stopwatch** | Millisecond-precision stopwatch with lap tracking. | [toolknit.com](https://toolknit.com/tools/stopwatch.html) |
 | **ToolKnit World Clock** | Live time across every timezone. | [toolknit.com](https://toolknit.com/tools/world-clock.html) |
 | **MiniToolz** | Free and simple online tools collection. | [minitoolz.com](https://minitoolz.com/) |
+| **PickerSpin** | Spin a wheel to pick names or winners, roll dice, call bingo numbers, and make random teams. No signup; provably fair via the Web Crypto API. | [PickerSpin](https://pickerspin.co) |
 
 ---
 
