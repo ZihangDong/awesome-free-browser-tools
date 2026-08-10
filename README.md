@@ -27,6 +27,7 @@ A curated list of **free, browser-based tools** that work without downloads, sig
 | **ToolKnit PDF to Word** | Convert PDF to editable DOCX format. | [toolknit.com](https://toolknit.com/tools/pdf-to-word.html) |
 | **ToolKnit Word to PDF** | Convert Word documents to PDF. | [toolknit.com](https://toolknit.com/tools/word-to-pdf.html) |
 | **ToolKnit Image to PDF** | Convert images to PDF documents. | [toolknit.com](https://toolknit.com/tools/image-to-pdf.html) |
+| **PDF Mavericks** | Compress, merge, split, sign, redact, watermark and convert PDFs. Runs entirely in the browser; files are never uploaded. | [pdfmavericks.com](https://www.pdfmavericks.com/) |
 | **ILovePDF** | Popular online PDF editor with many tools. | [ilovepdf.com](https://www.ilovepdf.com/) |
 | **SmallPDF** | PDF compress, convert, merge and more. | [smallpdf.com](https://smallpdf.com/) |
 | **PDF24** | Free PDF tools with desktop and online versions. | [tools.pdf24.org](https://tools.pdf24.org/) |
