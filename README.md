@@ -42,6 +42,7 @@ A curated list of **free, browser-based tools** that work without downloads, sig
 | **TinyTools Background Remover** | AI background removal that runs entirely in your browser (ONNX/WASM). No upload, no signup. Free & open source. | [tinytools-smoky.vercel.app](https://tinytools-smoky.vercel.app/background-remover/) |
 | **Squoosh** | Google's image compression tool with advanced options. | [squoosh.app](https://squoosh.app/) |
 | **TinyPNG** | Smart lossy compression for PNG and JPEG. | [tinypng.com](https://tinypng.com/) |
+| **Image to Crochet Pattern** | Convert images into crochet patterns in the browser. | [imagetocrochetpattern.com](https://imagetocrochetpattern.com) |
 | **Photopea** | Free online Photoshop alternative. | [photopea.com](https://www.photopea.com/) |
 
 ## Video & Audio Tools
@@ -82,6 +83,12 @@ A curated list of **free, browser-based tools** that work without downloads, sig
 | **ToolKnit Stopwatch** | Millisecond-precision stopwatch with lap tracking. | [toolknit.com](https://toolknit.com/tools/stopwatch.html) |
 | **ToolKnit World Clock** | Live time across every timezone. | [toolknit.com](https://toolknit.com/tools/world-clock.html) |
 | **MiniToolz** | Free and simple online tools collection. | [minitoolz.com](https://minitoolz.com/) |
+| **Codex Theme Builder** | Free browser theme builder for OpenAI Codex with live preview and CSS token export. | [codextheme.tools](https://codextheme.tools) |
+| **SkyCOTL Tools** | Free guides and calculators for Sky: Children of the Light. | [skycotl.tools](https://skycotl.tools) |
+| **Pressure Washer Fix** | Free troubleshooting guides for common pressure washer problems. | [pressurewasherfix.com](https://pressurewasherfix.com) |
+| **Lawn Mowing Cost Calculator** | Free calculator for lawn mowing cost estimates by area, rate, and extras. | [lawnmowingcalculator.com](https://lawnmowingcalculator.com) |
+| **WattsCalc** | Free wattage and electricity cost calculator for appliances and devices. | [wattscalc.com](https://wattscalc.com) |
+| **Embroidery Pricing Calculator** | Free embroidery job pricing from stitches, fabric, and labor. | [embroiderypricingcalculator.com](https://embroiderypricingcalculator.com) |
 
 ---
 
