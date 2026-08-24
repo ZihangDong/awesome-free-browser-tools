@@ -57,6 +57,7 @@ A curated list of **free, browser-based tools** that work without downloads, sig
 
 | Tool | Description | Link |
 |------|------------|------|
+| **Need Go Home** | Generate professional workplace messages (leaving early, appointments, emergencies) in 12 languages, no signup. | [needgohome.com](https://needgohome.com) |
 | **ToolKnit Character Counter** | Count characters, words, sentences & paragraphs in real-time. | [toolknit.com](https://toolknit.com/tools/character-counter.html) |
 | **ToolKnit Text Extractor** | Extract text from PDF, DOCX, XLSX & 12+ formats. | [toolknit.com](https://toolknit.com/tools/extract-text.html) |
 | **WordCounter.net** | Online word and character counter. | [wordcounter.net](https://wordcounter.net/) |
