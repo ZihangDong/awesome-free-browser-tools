@@ -30,6 +30,7 @@ A curated list of **free, browser-based tools** that work without downloads, sig
 | **ILovePDF** | Popular online PDF editor with many tools. | [ilovepdf.com](https://www.ilovepdf.com/) |
 | **SmallPDF** | PDF compress, convert, merge and more. | [smallpdf.com](https://smallpdf.com/) |
 | **PDF24** | Free PDF tools with desktop and online versions. | [tools.pdf24.org](https://tools.pdf24.org/) |
+| **SolveBar PDF Tools** | Merge, split, compress, rotate, watermark & convert PDFs — fully client-side, no upload, no signup. | [solvebar.com](https://solvebar.com/tools/pdf-merger) |
 
 ## Image Tools
 
@@ -43,6 +44,7 @@ A curated list of **free, browser-based tools** that work without downloads, sig
 | **Squoosh** | Google's image compression tool with advanced options. | [squoosh.app](https://squoosh.app/) |
 | **TinyPNG** | Smart lossy compression for PNG and JPEG. | [tinypng.com](https://tinypng.com/) |
 | **Photopea** | Free online Photoshop alternative. | [photopea.com](https://www.photopea.com/) |
+| **SolveBar Image Tools** | Convert, compress, resize & watermark images, plus an EXIF metadata viewer — all in-browser, files never leave your device. | [solvebar.com](https://solvebar.com/tools/image-converter) |
 
 ## Video & Audio Tools
 
@@ -70,6 +72,7 @@ A curated list of **free, browser-based tools** that work without downloads, sig
 | **IT-Tools** | Collection of handy tools for developers. | [it-tools.tech](https://it-tools.tech/) |
 | **10015.io** | All online tools in one box for developers. | [10015.io](https://www.10015.io/) |
 | **CyberChef** | The cyber Swiss Army knife for data operations. | [gchq.github.io/CyberChef](https://gchq.github.io/CyberChef/) |
+| **SolveBar** | 85 free browser tools for developers & crypto users — JSON formatter, regex tester, hash generator, JWT decoder, EVM calldata decoder & more. No signup. | [solvebar.com](https://solvebar.com/) |
 
 ## Utility Tools
 
