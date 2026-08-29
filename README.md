@@ -81,6 +81,7 @@ A curated list of **free, browser-based tools** that work without downloads, sig
 | **ToolKnit Reaction Time Test** | Test your reflexes with 4 different modes. | [toolknit.com](https://toolknit.com/tools/reaction-time-test.html) |
 | **ToolKnit Stopwatch** | Millisecond-precision stopwatch with lap tracking. | [toolknit.com](https://toolknit.com/tools/stopwatch.html) |
 | **ToolKnit World Clock** | Live time across every timezone. | [toolknit.com](https://toolknit.com/tools/world-clock.html) |
+| **DeviceMetrik** | 31 browser-based checks for display, input, controller, audio, and camera behavior. Runs locally with clear measurement limits. | [devicemetrik.com](https://devicemetrik.com/) |
 | **MiniToolz** | Free and simple online tools collection. | [minitoolz.com](https://minitoolz.com/) |
 
 ---
