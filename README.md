@@ -109,3 +109,5 @@ Found a great browser-based tool? Please open a pull request! Requirements:
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 This list is released under CC0. You are free to copy, modify, and distribute it.
+
+- [Dash Calculator](https://dashcalculator.com) - Free online calculators for finance, health, math, and everyday decisions.
