@@ -75,6 +75,7 @@ A curated list of **free, browser-based tools** that work without downloads, sig
 
 | Tool | Description | Link |
 |------|------------|------|
+| **CountMetrik Tap Counter** | Free touch-first counter for repeated manual counting with undo, targets, local saving and offline support. | [countmetrik.com/tap-counter](https://countmetrik.com/tap-counter) |
 | **ToolKnit Spinner Wheel** | Custom spinning wheel with up to 15 options. | [toolknit.com](https://toolknit.com/tools/random-spinner.html) |
 | **ToolKnit Keyboard Tester** | Test every key on your keyboard visually. | [toolknit.com](https://toolknit.com/tools/keyboard-tester.html) |
 | **ToolKnit Drawing Board** | Free whiteboard with pen, shapes & text. Export PDF/PNG. | [toolknit.com](https://toolknit.com/tools/whiteboard.html) |
