@@ -35,6 +35,7 @@ A curated list of **free, browser-based tools** that work without downloads, sig
 
 | Tool | Description | Link |
 |------|------------|------|
+| **Handy House** | Compress JPG/PNG/WebP to JPEG under a chosen KB limit, locally in the browser. May reduce dimensions; 20 MB / 24 MP input limit. | [Handy House](https://handy-house-tools.wch2011abc.chatgpt.site/compress-image/) |
 | **ToolKnit Image Compressor** | Compress JPG, PNG, WebP & GIF with quality control. | [toolknit.com](https://toolknit.com/tools/compress-image.html) |
 | **ToolKnit Image Cropper** | Crop images with custom aspect ratios. | [toolknit.com](https://toolknit.com/tools/image-crop.html) |
 | **ToolKnit Image Grid Splitter** | Split images into 3×3 grids for Instagram. | [toolknit.com](https://toolknit.com/tools/image-grid-split.html) |
