@@ -40,6 +40,7 @@ A curated list of **free, browser-based tools** that work without downloads, sig
 | **ToolKnit Image Grid Splitter** | Split images into 3×3 grids for Instagram. | [toolknit.com](https://toolknit.com/tools/image-grid-split.html) |
 | **ToolKnit Format Converters** | JPG↔PNG, JPG↔WebP, PNG↔WebP, WebP↔JPG/PNG. | [toolknit.com](https://toolknit.com/) |
 | **TinyTools Background Remover** | AI background removal that runs entirely in your browser (ONNX/WASM). No upload, no signup. Free & open source. | [tinytools-smoky.vercel.app](https://tinytools-smoky.vercel.app/background-remover/) |
+| **Background Remover** | Free browser-only background removal — no signup, runs in your browser. | [tomaserben.com](https://tomaserben.com/free-tools/image-background-remover) |
 | **Squoosh** | Google's image compression tool with advanced options. | [squoosh.app](https://squoosh.app/) |
 | **TinyPNG** | Smart lossy compression for PNG and JPEG. | [tinypng.com](https://tinypng.com/) |
 | **Photopea** | Free online Photoshop alternative. | [photopea.com](https://www.photopea.com/) |
