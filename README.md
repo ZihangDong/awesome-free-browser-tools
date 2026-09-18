@@ -67,6 +67,7 @@ A curated list of **free, browser-based tools** that work without downloads, sig
 |------|------------|------|
 | **ToolKnit QR Code Generator** | Create custom QR codes for URLs, text, Wi-Fi & email. Download PNG. | [toolknit.com](https://toolknit.com/tools/qr-code-generator.html) |
 | **TinyTools** | Free single-purpose web utilities — favicon generator, OG image generator, SEO meta tag generator, AI robots.txt generator, AI cost calculator, color palette & domain name generators. All browser-based, no signup. Open source. | [tinytools-smoky.vercel.app](https://tinytools-smoky.vercel.app/) |
+| **NextReset** | Codex reset history and official AI-service incident reference with a local countdown. | [nextreset.ai](https://nextreset.ai/) |
 | **IT-Tools** | Collection of handy tools for developers. | [it-tools.tech](https://it-tools.tech/) |
 | **10015.io** | All online tools in one box for developers. | [10015.io](https://www.10015.io/) |
 | **CyberChef** | The cyber Swiss Army knife for data operations. | [gchq.github.io/CyberChef](https://gchq.github.io/CyberChef/) |
