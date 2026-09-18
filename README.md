@@ -27,6 +27,7 @@ A curated list of **free, browser-based tools** that work without downloads, sig
 | **ToolKnit PDF to Word** | Convert PDF to editable DOCX format. | [toolknit.com](https://toolknit.com/tools/pdf-to-word.html) |
 | **ToolKnit Word to PDF** | Convert Word documents to PDF. | [toolknit.com](https://toolknit.com/tools/word-to-pdf.html) |
 | **ToolKnit Image to PDF** | Convert images to PDF documents. | [toolknit.com](https://toolknit.com/tools/image-to-pdf.html) |
+| **cv.cm** | Merge, split, and compress PDFs in the browser. Files stay on the device. Open source. | [cv.cm](https://cv.cm/en/merge-pdf/) |
 | **ILovePDF** | Popular online PDF editor with many tools. | [ilovepdf.com](https://www.ilovepdf.com/) |
 | **SmallPDF** | PDF compress, convert, merge and more. | [smallpdf.com](https://smallpdf.com/) |
 | **PDF24** | Free PDF tools with desktop and online versions. | [tools.pdf24.org](https://tools.pdf24.org/) |
@@ -40,6 +41,7 @@ A curated list of **free, browser-based tools** that work without downloads, sig
 | **ToolKnit Image Grid Splitter** | Split images into 3×3 grids for Instagram. | [toolknit.com](https://toolknit.com/tools/image-grid-split.html) |
 | **ToolKnit Format Converters** | JPG↔PNG, JPG↔WebP, PNG↔WebP, WebP↔JPG/PNG. | [toolknit.com](https://toolknit.com/) |
 | **TinyTools Background Remover** | AI background removal that runs entirely in your browser (ONNX/WASM). No upload, no signup. Free & open source. | [tinytools-smoky.vercel.app](https://tinytools-smoky.vercel.app/background-remover/) |
+| **cv.cm** | Convert HEIC/WebP/JPG, crop, watermark, and strip EXIF in the browser. No upload. | [cv.cm](https://cv.cm/en/convert/) |
 | **Squoosh** | Google's image compression tool with advanced options. | [squoosh.app](https://squoosh.app/) |
 | **TinyPNG** | Smart lossy compression for PNG and JPEG. | [tinypng.com](https://tinypng.com/) |
 | **Photopea** | Free online Photoshop alternative. | [photopea.com](https://www.photopea.com/) |
@@ -67,6 +69,7 @@ A curated list of **free, browser-based tools** that work without downloads, sig
 |------|------------|------|
 | **ToolKnit QR Code Generator** | Create custom QR codes for URLs, text, Wi-Fi & email. Download PNG. | [toolknit.com](https://toolknit.com/tools/qr-code-generator.html) |
 | **TinyTools** | Free single-purpose web utilities — favicon generator, OG image generator, SEO meta tag generator, AI robots.txt generator, AI cost calculator, color palette & domain name generators. All browser-based, no signup. Open source. | [tinytools-smoky.vercel.app](https://tinytools-smoky.vercel.app/) |
+| **cv.cm** | Generate QR and barcodes in the browser. No account. | [cv.cm](https://cv.cm/en/qr/) |
 | **IT-Tools** | Collection of handy tools for developers. | [it-tools.tech](https://it-tools.tech/) |
 | **10015.io** | All online tools in one box for developers. | [10015.io](https://www.10015.io/) |
 | **CyberChef** | The cyber Swiss Army knife for data operations. | [gchq.github.io/CyberChef](https://gchq.github.io/CyberChef/) |
