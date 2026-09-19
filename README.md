@@ -43,6 +43,7 @@ A curated list of **free, browser-based tools** that work without downloads, sig
 | **Squoosh** | Google's image compression tool with advanced options. | [squoosh.app](https://squoosh.app/) |
 | **TinyPNG** | Smart lossy compression for PNG and JPEG. | [tinypng.com](https://tinypng.com/) |
 | **Photopea** | Free online Photoshop alternative. | [photopea.com](https://www.photopea.com/) |
+| **Greenscreencut** | Free in-browser green-screen / chroma-key remover. Image → transparent PNG, video → transparent WebM. Runs client-side — no upload, no account. | [github.com/nieezkeei520/green-screen-remover](https://github.com/nieezkeei520/green-screen-remover) |
 
 ## Video & Audio Tools
 
