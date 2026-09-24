@@ -70,6 +70,7 @@ A curated list of **free, browser-based tools** that work without downloads, sig
 | **IT-Tools** | Collection of handy tools for developers. | [it-tools.tech](https://it-tools.tech/) |
 | **10015.io** | All online tools in one box for developers. | [10015.io](https://www.10015.io/) |
 | **CyberChef** | The cyber Swiss Army knife for data operations. | [gchq.github.io/CyberChef](https://gchq.github.io/CyberChef/) |
+| **QuickTiny** | Paste JSON, Base64, encoded URLs, timestamps, lists or text — detects the input locally and routes you to the right tool. 13 free browser utilities, no signup. | [quicktinyv2.vercel.app](https://quicktinyv2.vercel.app/) |
 
 ## Utility Tools
 
