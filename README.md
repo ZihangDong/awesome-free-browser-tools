@@ -41,6 +41,7 @@ A curated list of **free, browser-based tools** that work without downloads, sig
 | **ToolKnit Format Converters** | JPG↔PNG, JPG↔WebP, PNG↔WebP, WebP↔JPG/PNG. | [toolknit.com](https://toolknit.com/) |
 | **TinyTools Background Remover** | AI background removal that runs entirely in your browser (ONNX/WASM). No upload, no signup. Free & open source. | [tinytools-smoky.vercel.app](https://tinytools-smoky.vercel.app/background-remover/) |
 | **Squoosh** | Google's image compression tool with advanced options. | [squoosh.app](https://squoosh.app/) |
+| **FileOnTap** | Free HEIC to PNG converter that runs entirely in your browser — files are never uploaded to any server. | [fileontap.com](https://fileontap.com/heic-to-png/) |
 | **TinyPNG** | Smart lossy compression for PNG and JPEG. | [tinypng.com](https://tinypng.com/) |
 | **Photopea** | Free online Photoshop alternative. | [photopea.com](https://www.photopea.com/) |
 
