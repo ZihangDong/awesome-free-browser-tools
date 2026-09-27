@@ -52,6 +52,9 @@ A curated list of **free, browser-based tools** that work without downloads, sig
 | **ToolKnit Video to GIF** | Convert video clips to animated GIFs. | [toolknit.com](https://toolknit.com/tools/video-to-gif.html) |
 | **ToolKnit MP3↔WAV** | Convert between MP3 and WAV formats. | [toolknit.com](https://toolknit.com/) |
 | **Kapwing** | Online video editor with many features. | [kapwing.com](https://www.kapwing.com/) |
+| **KlipTools Subtitle Sync** | Shift or stretch SRT/VTT subtitles that run early, late or drift out of sync. Runs in your browser, no upload, no signup. | [kliptools.com](https://kliptools.com/subtitle-sync/) |
+| **KlipTools Subtitle Converter** | Convert subtitles between SRT, VTT, ASS/SSA, MicroDVD, YouTube SBV and plain text. Runs in your browser, no upload, no signup. | [kliptools.com](https://kliptools.com/subtitle-converter/) |
+| **KlipTools Video Speed Changer** | Speed up or slow down MP4, WebM and MOV videos, keeping the audio pitch. Runs in your browser, no upload, no signup. | [kliptools.com](https://kliptools.com/video-speed-changer/) |
 
 ## Text Tools
 
