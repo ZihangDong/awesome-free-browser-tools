@@ -79,6 +79,7 @@ A curated list of **free, browser-based tools** that work without downloads, sig
 | **ToolKnit Keyboard Tester** | Test every key on your keyboard visually. | [toolknit.com](https://toolknit.com/tools/keyboard-tester.html) |
 | **ToolKnit Drawing Board** | Free whiteboard with pen, shapes & text. Export PDF/PNG. | [toolknit.com](https://toolknit.com/tools/whiteboard.html) |
 | **ToolKnit Reaction Time Test** | Test your reflexes with 4 different modes. | [toolknit.com](https://toolknit.com/tools/reaction-time-test.html) |
+| **ReactionMetric** | Free browser reaction-time benchmark with repeatable five-trial testing and immediate statistics. | [reactionmetric.com](https://reactionmetric.com/) |
 | **ToolKnit Stopwatch** | Millisecond-precision stopwatch with lap tracking. | [toolknit.com](https://toolknit.com/tools/stopwatch.html) |
 | **ToolKnit World Clock** | Live time across every timezone. | [toolknit.com](https://toolknit.com/tools/world-clock.html) |
 | **MiniToolz** | Free and simple online tools collection. | [minitoolz.com](https://minitoolz.com/) |
