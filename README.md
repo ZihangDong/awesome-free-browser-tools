@@ -70,6 +70,7 @@ A curated list of **free, browser-based tools** that work without downloads, sig
 | **IT-Tools** | Collection of handy tools for developers. | [it-tools.tech](https://it-tools.tech/) |
 | **10015.io** | All online tools in one box for developers. | [10015.io](https://www.10015.io/) |
 | **CyberChef** | The cyber Swiss Army knife for data operations. | [gchq.github.io/CyberChef](https://gchq.github.io/CyberChef/) |
+| **GratisTools** | Browser-based utilities for JSON/XML, file inspection, Belgian identifiers, UBL/Peppol, CODA/CAMT and XBRL. | [gratistools.be](https://gratistools.be/) |
 
 ## Utility Tools
 
