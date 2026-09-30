@@ -52,6 +52,7 @@ A curated list of **free, browser-based tools** that work without downloads, sig
 | **ToolKnit Video to GIF** | Convert video clips to animated GIFs. | [toolknit.com](https://toolknit.com/tools/video-to-gif.html) |
 | **ToolKnit MP3↔WAV** | Convert between MP3 and WAV formats. | [toolknit.com](https://toolknit.com/) |
 | **Kapwing** | Online video editor with many features. | [kapwing.com](https://www.kapwing.com/) |
+| **ReelWorkshop** | Browser compilation maker: arrange/trim your own clips into vertical 9:16; edit & preview free. | [reelworkshop.com/demo](https://reelworkshop.com/demo) |
 
 ## Text Tools
 
