@@ -70,6 +70,7 @@ A curated list of **free, browser-based tools** that work without downloads, sig
 | **IT-Tools** | Collection of handy tools for developers. | [it-tools.tech](https://it-tools.tech/) |
 | **10015.io** | All online tools in one box for developers. | [10015.io](https://www.10015.io/) |
 | **CyberChef** | The cyber Swiss Army knife for data operations. | [gchq.github.io/CyberChef](https://gchq.github.io/CyberChef/) |
+| **IPYNB Viewer** | Open Jupyter .ipynb files in the browser, read Markdown, code and saved outputs, then save as PDF. No install or account; files stay in the browser. | [ipynbtopdf.xyz](https://ipynbtopdf.xyz/ipynb-viewer) |
 
 ## Utility Tools
 
