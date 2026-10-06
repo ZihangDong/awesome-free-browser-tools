@@ -82,6 +82,7 @@ A curated list of **free, browser-based tools** that work without downloads, sig
 | **ToolKnit Stopwatch** | Millisecond-precision stopwatch with lap tracking. | [toolknit.com](https://toolknit.com/tools/stopwatch.html) |
 | **ToolKnit World Clock** | Live time across every timezone. | [toolknit.com](https://toolknit.com/tools/world-clock.html) |
 | **MiniToolz** | Free and simple online tools collection. | [minitoolz.com](https://minitoolz.com/) |
+| **EpicMail Gmail POP Migration Planner** | Builds a printable Gmail POP migration checklist and account inventory from browser-only answers, without signup or mailbox login. | [epicmail.org](https://epicmail.org/tools/gmail-pop-migration-planner?utm_source=github&utm_medium=referral&utm_campaign=gmail_pop_shutdown_2026&utm_content=free_browser_tools) |
 
 ---
 
