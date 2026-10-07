@@ -30,6 +30,7 @@ A curated list of **free, browser-based tools** that work without downloads, sig
 | **ILovePDF** | Popular online PDF editor with many tools. | [ilovepdf.com](https://www.ilovepdf.com/) |
 | **SmallPDF** | PDF compress, convert, merge and more. | [smallpdf.com](https://smallpdf.com/) |
 | **PDF24** | Free PDF tools with desktop and online versions. | [tools.pdf24.org](https://tools.pdf24.org/) |
+| **Drible Sign PDF** | Sign a PDF by drawing, typing or uploading a signature; it is written into the original file in your browser. | [drible.co](https://drible.co/pdf/sign) |
 
 ## Image Tools
 
@@ -43,6 +44,7 @@ A curated list of **free, browser-based tools** that work without downloads, sig
 | **Squoosh** | Google's image compression tool with advanced options. | [squoosh.app](https://squoosh.app/) |
 | **TinyPNG** | Smart lossy compression for PNG and JPEG. | [tinypng.com](https://tinypng.com/) |
 | **Photopea** | Free online Photoshop alternative. | [photopea.com](https://www.photopea.com/) |
+| **Drible HEIC to JPG** | Convert iPhone HEIC/HEIF photos to JPG or PNG in the browser (libheif via WebAssembly). No upload. | [drible.co](https://drible.co/image/heic-to-jpg) |
 
 ## Video & Audio Tools
 
