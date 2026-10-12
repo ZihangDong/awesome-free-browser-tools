@@ -52,6 +52,7 @@ A curated list of **free, browser-based tools** that work without downloads, sig
 | **ToolKnit Video to GIF** | Convert video clips to animated GIFs. | [toolknit.com](https://toolknit.com/tools/video-to-gif.html) |
 | **ToolKnit MP3↔WAV** | Convert between MP3 and WAV formats. | [toolknit.com](https://toolknit.com/) |
 | **Kapwing** | Online video editor with many features. | [kapwing.com](https://www.kapwing.com/) |
+| **QuietTake Noise Remover** | Free browser-local RNNoise/WASM speech noise reduction with original/cleaned playback and 48 kHz 16-bit WAV export; each file must be 50 MB or smaller and five minutes or shorter, with no account or audio upload required. | [noiseremover.site](https://noiseremover.site/) |
 
 ## Text Tools
 
