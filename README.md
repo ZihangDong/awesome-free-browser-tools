@@ -52,6 +52,7 @@ A curated list of **free, browser-based tools** that work without downloads, sig
 | **ToolKnit Video to GIF** | Convert video clips to animated GIFs. | [toolknit.com](https://toolknit.com/tools/video-to-gif.html) |
 | **ToolKnit MP3↔WAV** | Convert between MP3 and WAV formats. | [toolknit.com](https://toolknit.com/) |
 | **Kapwing** | Online video editor with many features. | [kapwing.com](https://www.kapwing.com/) |
+| **video2mp4 Local MP4 Converter** | Repackage compatible MOV, WebM, MKV, AVI, or MP4 files as MP4 in your browser without uploading the file or signing in. | [video2mp4.com](https://video2mp4.com/convert-video-to-mp4/) |
 
 ## Text Tools
 
