@@ -21,6 +21,10 @@ A curated list of **free, browser-based tools** that work without downloads, sig
 
 | Tool | Description | Link |
 |------|------------|------|
+| **Tool Pantry PDF to JPG** | Render PDF pages as JPG or PNG in the browser, multi-page as a ZIP. No upload. | [toolpantry.app/pdf-to-jpg](https://toolpantry.app/pdf-to-jpg) |
+| **Tool Pantry Merge PDF** | Combine several PDFs into one file, in the order you choose. Runs locally. | [toolpantry.app/merge-pdf](https://toolpantry.app/merge-pdf) |
+| **Tool Pantry Compress PDF** | Shrink a PDF by rendering pages at a chosen resolution. No upload, no account. | [toolpantry.app/compress-pdf](https://toolpantry.app/compress-pdf) |
+| **Tool Pantry PDF to Word** | Turn a PDF into an editable Word document in the browser. | [toolpantry.app/pdf-to-word](https://toolpantry.app/pdf-to-word) |
 | **ToolKnit PDF Compressor** | Compress PDF files with adjustable quality. Runs in-browser. | [toolknit.com](https://toolknit.com/tools/compress-pdf.html) |
 | **ToolKnit PDF to Image** | Convert PDF pages to PNG/JPG images. | [toolknit.com](https://toolknit.com/tools/pdf-to-image.html) |
 | **ToolKnit Merge PDF** | Combine multiple PDFs into one file. | [toolknit.com](https://toolknit.com/tools/merge-pdf.html) |
@@ -35,6 +39,9 @@ A curated list of **free, browser-based tools** that work without downloads, sig
 
 | Tool | Description | Link |
 |------|------------|------|
+| **Tool Pantry Image Compressor** | Compress JPG, PNG, WebP and GIF to an exact byte target, with a preview. | [toolpantry.app/image-compressor](https://toolpantry.app/image-compressor) |
+| **Tool Pantry Favicon Generator** | Turn one image into a full favicon set (16 to 512 px) in the browser. | [toolpantry.app/favicon-generator](https://toolpantry.app/favicon-generator) |
+| **Tool Pantry Color Converter** | Convert HEX, RGB, HSL and CMYK with a swatch and a contrast check. | [toolpantry.app/color-converter](https://toolpantry.app/color-converter) |
 | **ToolKnit Image Compressor** | Compress JPG, PNG, WebP & GIF with quality control. | [toolknit.com](https://toolknit.com/tools/compress-image.html) |
 | **ToolKnit Image Cropper** | Crop images with custom aspect ratios. | [toolknit.com](https://toolknit.com/tools/image-crop.html) |
 | **ToolKnit Image Grid Splitter** | Split images into 3×3 grids for Instagram. | [toolknit.com](https://toolknit.com/tools/image-grid-split.html) |
@@ -65,6 +72,8 @@ A curated list of **free, browser-based tools** that work without downloads, sig
 
 | Tool | Description | Link |
 |------|------------|------|
+| **Tool Pantry JSON Validator** | Check JSON for syntax errors with line and column, in the browser. | [toolpantry.app/json-validator](https://toolpantry.app/json-validator) |
+| **Tool Pantry Cron Expression Parser** | Explain a five-field cron expression in plain language, in the browser. | [toolpantry.app/cron-expression-tool](https://toolpantry.app/cron-expression-tool) |
 | **ToolKnit QR Code Generator** | Create custom QR codes for URLs, text, Wi-Fi & email. Download PNG. | [toolknit.com](https://toolknit.com/tools/qr-code-generator.html) |
 | **TinyTools** | Free single-purpose web utilities — favicon generator, OG image generator, SEO meta tag generator, AI robots.txt generator, AI cost calculator, color palette & domain name generators. All browser-based, no signup. Open source. | [tinytools-smoky.vercel.app](https://tinytools-smoky.vercel.app/) |
 | **IT-Tools** | Collection of handy tools for developers. | [it-tools.tech](https://it-tools.tech/) |
