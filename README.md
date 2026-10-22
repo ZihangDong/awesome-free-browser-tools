@@ -82,6 +82,7 @@ A curated list of **free, browser-based tools** that work without downloads, sig
 | **ToolKnit Stopwatch** | Millisecond-precision stopwatch with lap tracking. | [toolknit.com](https://toolknit.com/tools/stopwatch.html) |
 | **ToolKnit World Clock** | Live time across every timezone. | [toolknit.com](https://toolknit.com/tools/world-clock.html) |
 | **MiniToolz** | Free and simple online tools collection. | [minitoolz.com](https://minitoolz.com/) |
+| **Roof Cost Data** | Estimate US roof replacement cost ranges in the browser by size, material, location, and tear-off. | [roofcostdata.com](https://roofcostdata.com/roof-replacement-cost-calculator) |
 
 ---
 
