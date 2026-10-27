@@ -35,6 +35,7 @@ A curated list of **free, browser-based tools** that work without downloads, sig
 
 | Tool | Description | Link |
 |------|------------|------|
+| **ImgFlow** | Free in-browser image compressor/converter (HEIC, WebP, AVIF, target-size). Files stay on device (WASM). | [imgflow.taoliapp.com](https://imgflow.taoliapp.com/en/) |
 | **ToolKnit Image Compressor** | Compress JPG, PNG, WebP & GIF with quality control. | [toolknit.com](https://toolknit.com/tools/compress-image.html) |
 | **ToolKnit Image Cropper** | Crop images with custom aspect ratios. | [toolknit.com](https://toolknit.com/tools/image-crop.html) |
 | **ToolKnit Image Grid Splitter** | Split images into 3×3 grids for Instagram. | [toolknit.com](https://toolknit.com/tools/image-grid-split.html) |
