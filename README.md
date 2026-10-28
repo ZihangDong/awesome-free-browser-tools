@@ -21,6 +21,7 @@ A curated list of **free, browser-based tools** that work without downloads, sig
 
 | Tool | Description | Link |
 |------|------------|------|
+| **FileConvertCenter PDF Editor** | Edit supported selectable PDF text, add annotations and signatures, and organize pages in the browser without an account. | [fileconvertcenter.com](https://fileconvertcenter.com/pdf-editor) |
 | **ToolKnit PDF Compressor** | Compress PDF files with adjustable quality. Runs in-browser. | [toolknit.com](https://toolknit.com/tools/compress-pdf.html) |
 | **ToolKnit PDF to Image** | Convert PDF pages to PNG/JPG images. | [toolknit.com](https://toolknit.com/tools/pdf-to-image.html) |
 | **ToolKnit Merge PDF** | Combine multiple PDFs into one file. | [toolknit.com](https://toolknit.com/tools/merge-pdf.html) |
