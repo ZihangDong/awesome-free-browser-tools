@@ -52,6 +52,7 @@ A curated list of **free, browser-based tools** that work without downloads, sig
 | **ToolKnit Video to GIF** | Convert video clips to animated GIFs. | [toolknit.com](https://toolknit.com/tools/video-to-gif.html) |
 | **ToolKnit MP3↔WAV** | Convert between MP3 and WAV formats. | [toolknit.com](https://toolknit.com/) |
 | **Kapwing** | Online video editor with many features. | [kapwing.com](https://www.kapwing.com/) |
+| **Karaoke Captions** | Generate and edit word-by-word video captions locally; free Classic and Lyrics exports need no account. | [karaokecaptions.com](https://karaokecaptions.com/) |
 
 ## Text Tools
 
