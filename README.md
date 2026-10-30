@@ -39,6 +39,7 @@ A curated list of **free, browser-based tools** that work without downloads, sig
 | **ToolKnit Image Cropper** | Crop images with custom aspect ratios. | [toolknit.com](https://toolknit.com/tools/image-crop.html) |
 | **ToolKnit Image Grid Splitter** | Split images into 3×3 grids for Instagram. | [toolknit.com](https://toolknit.com/tools/image-grid-split.html) |
 | **ToolKnit Format Converters** | JPG↔PNG, JPG↔WebP, PNG↔WebP, WebP↔JPG/PNG. | [toolknit.com](https://toolknit.com/) |
+| **HelpMyIMG** | In-browser AI background remover, image compression, smart resize, and EXIF cleaner running 100% locally via WASM/WebGPU. No uploads, no account needed. | [helpmyimg.com](https://helpmyimg.com/) |
 | **TinyTools Background Remover** | AI background removal that runs entirely in your browser (ONNX/WASM). No upload, no signup. Free & open source. | [tinytools-smoky.vercel.app](https://tinytools-smoky.vercel.app/background-remover/) |
 | **Squoosh** | Google's image compression tool with advanced options. | [squoosh.app](https://squoosh.app/) |
 | **TinyPNG** | Smart lossy compression for PNG and JPEG. | [tinypng.com](https://tinypng.com/) |
