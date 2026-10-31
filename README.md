@@ -75,6 +75,7 @@ A curated list of **free, browser-based tools** that work without downloads, sig
 
 | Tool | Description | Link |
 |------|------------|------|
+| **Tranvas** | All-in-one personal productivity operating system: planner, habits, finance, and goals. | [tranvas.com](https://tranvas.com) |
 | **ToolKnit Spinner Wheel** | Custom spinning wheel with up to 15 options. | [toolknit.com](https://toolknit.com/tools/random-spinner.html) |
 | **ToolKnit Keyboard Tester** | Test every key on your keyboard visually. | [toolknit.com](https://toolknit.com/tools/keyboard-tester.html) |
 | **ToolKnit Drawing Board** | Free whiteboard with pen, shapes & text. Export PDF/PNG. | [toolknit.com](https://toolknit.com/tools/whiteboard.html) |
