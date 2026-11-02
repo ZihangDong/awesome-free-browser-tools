@@ -30,6 +30,7 @@ A curated list of **free, browser-based tools** that work without downloads, sig
 | **ILovePDF** | Popular online PDF editor with many tools. | [ilovepdf.com](https://www.ilovepdf.com/) |
 | **SmallPDF** | PDF compress, convert, merge and more. | [smallpdf.com](https://smallpdf.com/) |
 | **PDF24** | Free PDF tools with desktop and online versions. | [tools.pdf24.org](https://tools.pdf24.org/) |
+| **OpenP7M** | Open P7M files in-browser to read contained PDFs and supported FatturaPA XML locally. Free watermarked preview; single-file export €1.99. Batch processing requires an account. | [openp7m.com](https://openp7m.com/en/) |
 
 ## Image Tools
 
@@ -109,3 +110,4 @@ Found a great browser-based tool? Please open a pull request! Requirements:
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 This list is released under CC0. You are free to copy, modify, and distribute it.
+
