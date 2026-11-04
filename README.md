@@ -91,6 +91,7 @@ A curated list of **free, browser-based tools** that work without downloads, sig
 - ⚡ **Speed** — No upload/download wait times
 - 📱 **Cross-platform** — Works on any device with a browser
 - 💰 **Free** — No subscriptions or hidden fees
+- [Sticker Printer Hub](https://stickerprinterhub.com/) - Free browser sticker sheet maker: lays out 4x7 sticker sheets for print-and-cut printers, plus a cost-per-sheet calculator.
 
 ---
 
