@@ -43,6 +43,7 @@ A curated list of **free, browser-based tools** that work without downloads, sig
 | **Squoosh** | Google's image compression tool with advanced options. | [squoosh.app](https://squoosh.app/) |
 | **TinyPNG** | Smart lossy compression for PNG and JPEG. | [tinypng.com](https://tinypng.com/) |
 | **Photopea** | Free online Photoshop alternative. | [photopea.com](https://www.photopea.com/) |
+| **Pic2Vector** | Free in-browser PNG/JPG/WebP → SVG converter. Tracing via vtracer + WebAssembly; files never upload. No signup. | [pic2vector.com](https://pic2vector.com/) |
 
 ## Video & Audio Tools
 
