@@ -82,6 +82,11 @@ A curated list of **free, browser-based tools** that work without downloads, sig
 | **ToolKnit Stopwatch** | Millisecond-precision stopwatch with lap tracking. | [toolknit.com](https://toolknit.com/tools/stopwatch.html) |
 | **ToolKnit World Clock** | Live time across every timezone. | [toolknit.com](https://toolknit.com/tools/world-clock.html) |
 | **MiniToolz** | Free and simple online tools collection. | [minitoolz.com](https://minitoolz.com/) |
+| **Free PDF Converter** | Browser-based PDF toolkit (merge, split, compress, convert and related tools); processing runs locally in the browser. | [web-free.site](https://free-pdf-converter.web-free.site/) |
+| **Free Image Resizer** | Resize, compress, crop, rotate and convert images (HEIC, WebP, PNG, JPG) in the browser without uploading files. | [web-free.site](https://free-image-resizer.web-free.site/en/) |
+| **Free Word Counter** | Counts words, characters, sentences, paragraphs, reading time and keyword density in the browser; text is not uploaded. | [web-free.site](https://free-word-counter.web-free.site/) |
+| **Free QR Code Creator** | Creates styled QR codes and barcodes and can scan codes in the browser with no sign-up. | [web-free.site](https://free-qr-code-creator.web-free.site/) |
+| **Free Online Calculator** | Collection of everyday online calculators with instant results, no sign-up, and offline use after the page loads. | [web-free.site](https://free-online-calculator.web-free.site/en/) |
 
 ---
 
