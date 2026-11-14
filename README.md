@@ -35,7 +35,7 @@ A curated list of **free, browser-based tools** that work without downloads, sig
 
 | Tool | Description | Link |
 |------|------------|------|
-| **DDS Tools** | View DDS textures and convert images to DDS or DDS to PNG locally. No account needed; up to 10 files at a time are free. | [ddstools.com](https://ddstools.com/) |
+| **DDS Tools** | Free DDS viewer for mipmaps, channels and texture metadata, plus local image conversion. No account needed; conversion is free for up to 10 files at a time. | [ddstools.com](https://ddstools.com/) |
 | **ToolKnit Image Compressor** | Compress JPG, PNG, WebP & GIF with quality control. | [toolknit.com](https://toolknit.com/tools/compress-image.html) |
 | **ToolKnit Image Cropper** | Crop images with custom aspect ratios. | [toolknit.com](https://toolknit.com/tools/image-crop.html) |
 | **ToolKnit Image Grid Splitter** | Split images into 3×3 grids for Instagram. | [toolknit.com](https://toolknit.com/tools/image-grid-split.html) |
