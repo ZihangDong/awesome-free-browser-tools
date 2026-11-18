@@ -65,6 +65,7 @@ A curated list of **free, browser-based tools** that work without downloads, sig
 
 | Tool | Description | Link |
 |------|------------|------|
+| **BestJSON** | Format, validate, preview repairs and compare JSON structures locally in the browser. | [bestjson.com](https://bestjson.com/) |
 | **ToolKnit QR Code Generator** | Create custom QR codes for URLs, text, Wi-Fi & email. Download PNG. | [toolknit.com](https://toolknit.com/tools/qr-code-generator.html) |
 | **TinyTools** | Free single-purpose web utilities — favicon generator, OG image generator, SEO meta tag generator, AI robots.txt generator, AI cost calculator, color palette & domain name generators. All browser-based, no signup. Open source. | [tinytools-smoky.vercel.app](https://tinytools-smoky.vercel.app/) |
 | **IT-Tools** | Collection of handy tools for developers. | [it-tools.tech](https://it-tools.tech/) |
