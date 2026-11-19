@@ -1,3 +1,4 @@
+| **Gingertool PDF Merge** | Merge multiple PDF files in your browser without uploading them or creating an account. | [gingertool.com](https://gingertool.com/en/pdf/merge-pdf/) |
 # 🧰 Awesome Free Browser Tools
 
 A curated list of **free, browser-based tools** that work without downloads, signups, or uploads. All tools run locally in your browser for maximum privacy.
