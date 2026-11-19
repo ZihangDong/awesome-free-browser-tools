@@ -29,6 +29,7 @@ A curated list of **free, browser-based tools** that work without downloads, sig
 | **ToolKnit Image to PDF** | Convert images to PDF documents. | [toolknit.com](https://toolknit.com/tools/image-to-pdf.html) |
 | **ILovePDF** | Popular online PDF editor with many tools. | [ilovepdf.com](https://www.ilovepdf.com/) |
 | **SmallPDF** | PDF compress, convert, merge and more. | [smallpdf.com](https://smallpdf.com/) |
+| **Gingertool PDF Merge** | Merge multiple PDF files in your browser without uploading them or creating an account. | [gingertool.com](https://gingertool.com/en/pdf/merge-pdf/) |
 | **PDF24** | Free PDF tools with desktop and online versions. | [tools.pdf24.org](https://tools.pdf24.org/) |
 
 ## Image Tools
