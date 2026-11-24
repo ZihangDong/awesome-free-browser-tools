@@ -43,6 +43,7 @@ A curated list of **free, browser-based tools** that work without downloads, sig
 | **Squoosh** | Google's image compression tool with advanced options. | [squoosh.app](https://squoosh.app/) |
 | **TinyPNG** | Smart lossy compression for PNG and JPEG. | [tinypng.com](https://tinypng.com/) |
 | **Photopea** | Free online Photoshop alternative. | [photopea.com](https://www.photopea.com/) |
+| **Minecraft Pixel Art** | Convert images locally into Minecraft block blueprints, material lists and PNG build plans. No account required. | [minecraft-pixel-art.com](https://minecraft-pixel-art.com/editor/blueprint) |
 
 ## Video & Audio Tools
 
