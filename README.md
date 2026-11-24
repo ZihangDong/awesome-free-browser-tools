@@ -42,6 +42,7 @@ A curated list of **free, browser-based tools** that work without downloads, sig
 | **TinyTools Background Remover** | AI background removal that runs entirely in your browser (ONNX/WASM). No upload, no signup. Free & open source. | [tinytools-smoky.vercel.app](https://tinytools-smoky.vercel.app/background-remover/) |
 | **Squoosh** | Google's image compression tool with advanced options. | [squoosh.app](https://squoosh.app/) |
 | **TinyPNG** | Smart lossy compression for PNG and JPEG. | [tinypng.com](https://tinypng.com/) |
+| **Reletter** | Edit existing text in screenshots and photos. Standard OCR and watermarked previews run locally and are free without sign-up. Clean export uses credits. | [aiedittextinimage.com](https://aiedittextinimage.com/) |
 | **Photopea** | Free online Photoshop alternative. | [photopea.com](https://www.photopea.com/) |
 
 ## Video & Audio Tools
