@@ -43,6 +43,7 @@ A curated list of **free, browser-based tools** that work without downloads, sig
 | **Squoosh** | Google's image compression tool with advanced options. | [squoosh.app](https://squoosh.app/) |
 | **TinyPNG** | Smart lossy compression for PNG and JPEG. | [tinypng.com](https://tinypng.com/) |
 | **Photopea** | Free online Photoshop alternative. | [photopea.com](https://www.photopea.com/) |
+| **FujinAI Image Compressor** | Batch compress JPG, PNG, and WebP locally with quality and max-width controls. No signup or upload. | [fujindeai.com](https://www.fujindeai.com/tools/compress-image) |
 
 ## Video & Audio Tools
 
