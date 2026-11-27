@@ -30,6 +30,7 @@ A curated list of **free, browser-based tools** that work without downloads, sig
 | **ILovePDF** | Popular online PDF editor with many tools. | [ilovepdf.com](https://www.ilovepdf.com/) |
 | **SmallPDF** | PDF compress, convert, merge and more. | [smallpdf.com](https://smallpdf.com/) |
 | **PDF24** | Free PDF tools with desktop and online versions. | [tools.pdf24.org](https://tools.pdf24.org/) |
+| **Acrofile PDF Editor** | Edit existing PDF text, add text, images and signatures. Runs in-browser, no upload or signup. | [acrofile.com](https://www.acrofile.com/pdf-editor) |
 
 ## Image Tools
 
@@ -43,6 +44,7 @@ A curated list of **free, browser-based tools** that work without downloads, sig
 | **Squoosh** | Google's image compression tool with advanced options. | [squoosh.app](https://squoosh.app/) |
 | **TinyPNG** | Smart lossy compression for PNG and JPEG. | [tinypng.com](https://tinypng.com/) |
 | **Photopea** | Free online Photoshop alternative. | [photopea.com](https://www.photopea.com/) |
+| **Acrofile Image Compressor** | Compress JPG, PNG and WebP, or to an exact size like 100 KB. Runs in-browser, no upload. | [acrofile.com](https://www.acrofile.com/image-compress) |
 
 ## Video & Audio Tools
 
