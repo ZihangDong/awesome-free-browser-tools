@@ -43,6 +43,7 @@ A curated list of **free, browser-based tools** that work without downloads, sig
 | **Squoosh** | Google's image compression tool with advanced options. | [squoosh.app](https://squoosh.app/) |
 | **TinyPNG** | Smart lossy compression for PNG and JPEG. | [tinypng.com](https://tinypng.com/) |
 | **Photopea** | Free online Photoshop alternative. | [photopea.com](https://www.photopea.com/) |
+| ConvertFoto | Batch convert, resize, edit PDF in your browser without uploading files or creating an account. | [convertfoto.com](https://www.convertfoto.com/) |
 
 ## Video & Audio Tools
 
